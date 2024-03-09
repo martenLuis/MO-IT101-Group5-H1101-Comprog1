@@ -23,29 +23,6 @@ public class payrollSystem {
         } else {
             System.out.println("Employee not found.");
         }
-
-        // Instructions for pushing the code to GitHub:
-        // 1. Clone the repository
-        //    git clone <repository-url>
-        //
-        // 2. Move into the cloned repository directory
-        //    cd <repository-directory>
-        //
-        // 3. Copy your Java file (payrollSystem.java) into the repository directory
-        //
-        // 4. Stage your changes
-        //    git add .
-        //
-        // 5. Commit your changes
-        //    git commit -m "Add payrollSystem code"
-        //
-        // 6. Push your changes to GitHub
-        //    git push origin main
-        //
-        // Replace <repository-url> with the URL of your GitHub repository
-        // and <repository-directory> with the directory name of your cloned repository.
-        // If your repository has a different main branch name (e.g., master), replace "main" with that branch name
-        // in the "git push" command.
     }
 
     private static String promptEmployeeId() {
