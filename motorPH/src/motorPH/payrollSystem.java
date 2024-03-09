@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.util.Scanner;
 
 public class payrollSystem {
-    private static final String EMPLOYEE_DETAILS_FILE = "src\\Employee Details2.csv";
+    private static final String EMPLOYEE_DETAILS_FILE = "src\\Employee Details.csv";
     private static final String ATTENDANCE_RECORD_FILE = "src\\Attendance Record.csv";
 
     public static void main(String[] args) {
